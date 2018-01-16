@@ -1,0 +1,3 @@
+from evaluting.Imagecopyright import Image_CopyRight
+from evaluting.ImageSourcename import Image_Sourcename 
+from evaluting.Imageclusternum import Image_Clusternum

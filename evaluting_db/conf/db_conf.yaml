@@ -1,0 +1,24 @@
+cpu_ic:
+       host: 10.26.188.23
+       user: wuxiaowei01
+       passwd: 03hQkG62xq
+       dbname: cpu_ic
+       port: 5100
+evaluating:
+       host: 10.119.25.50 
+       user: cpuqa
+       passwd: MhxzKhl
+       dbname: evaluating
+       port: 3306
+cpu_cc:
+       host: 10.26.188.23
+       user: wuxiaowei01
+       passwd: 03hQkG62xq
+       dbname: cpu_cc
+       port: 5100
+cpu_vc:
+       host: 10.26.188.23
+       user: wuxiaowei01
+       passwd: 03hQkG62xq
+       dbname: cpu_vc
+       port: 5100
